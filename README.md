@@ -64,6 +64,6 @@ Contributions, suggestions, and feedback are welcome.
 
 For now, please reach out via X (Twitter):
 
-@thatboringbro
+https://x.com/thatboringbro
 
 This project is part of my learning journey, and I’m happy to discuss ideas or improvements.
