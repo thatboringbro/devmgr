@@ -5,6 +5,10 @@ disabling, and auditing hardware devices via kernel modules.
 
 Built as a hands-on blue-team project to apply SOC and Linux hardening concepts beyond labs.
 
+<img width="895" height="1024" alt="image" src="https://github.com/user-attachments/assets/68998ad0-31f2-4f35-aecb-a5950fe106ca" />
+
+<img width="863" height="444" alt="image" src="https://github.com/user-attachments/assets/7237a162-c803-4d38-9b91-9ca7a4525ae0" />
+
 ---
 
 ## Why this project exists
